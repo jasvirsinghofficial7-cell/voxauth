@@ -1,0 +1,23 @@
+# Security & API Keys
+.env
+
+# Python Caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Uploaded / Recorded Audio & Data
+*.wav
+*.npy
+*.db
+
+# Pretrained Models
+pretrained_models/
+speechbrain_temp/
+voice_auth.db
