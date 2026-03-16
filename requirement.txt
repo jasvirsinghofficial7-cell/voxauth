@@ -1,0 +1,11 @@
+streamlit
+streamlit-option-menu
+numpy
+scipy
+noisereduce
+torch
+torchaudio
+speechbrain
+sounddevice
+python-dotenv
+google-generativeai
